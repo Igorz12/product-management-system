@@ -7,7 +7,6 @@ public class Produto {
     private double preco;
     private int quantidadesEstoque;
 
-
     //Construtores
     public Produto(Long id, String nome, double preco, int quantidadesEstoque) {
         this.id = id;
