@@ -1,5 +1,6 @@
 package service;
 
+import exception.IdInvalidoException;
 import exception.PrecoInvalidoException;
 import exception.ProdutoNaoEncontradoException;
 import model.Produto;
