@@ -1,4 +1,4 @@
-package service;
+package exception;
 
 public class IdInvalidoException extends RuntimeException {
     public IdInvalidoException(String mensagem) {
